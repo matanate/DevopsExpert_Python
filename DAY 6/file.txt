@@ -1,0 +1,20 @@
+///bha Taa3add, bha Tdaer,  enr b7ha Fdcccccbbb...
+///bha Taa3add, bha Tdaer,  enr b7ha Fdcccccbbb...
+///bha Taa3add, bha Tdaer,  enr b7ha Fdcccccbbb...
+
+The encryption for the above text is:
+///the Bee3err, the Bread,  and t7he Frooooottt...
+///the Bee3err, the Bread,  and t7he Frooooottt...
+///the Bee3err, the Bread,  and t7he Frooooottt...
+
+The longest word is: Frooooottt
+The number of lines are: 3
+The requested string is: Frooooottt Frooooottt Frooooottt
+
+*   *
+*   *
+ * * 
+  *  
+ * * 
+*   *
+*   *
